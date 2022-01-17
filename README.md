@@ -2,7 +2,7 @@
 #### This is my github page
 I just started learning programming and my php goal is php. It is possible that I will add JS and HTML, CSS to my knowledge.
 
-Skills: PHP / REACT / JS / HTML / CSS
+Skills: PHP / HTML / CSS
 
 - 🔭 I’m currently working on With your education 
 - 🌱 I’m currently learning GeekBrains 
